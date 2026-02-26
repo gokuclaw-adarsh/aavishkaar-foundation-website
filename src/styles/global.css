@@ -1,8 +1,32 @@
 @import url('https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@400,500,700,800,900&f[]=satoshi@400,500,700&display=swap');
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+  /* Bold Youth Palette */
+  --color-ink: #0f172a;
+  --color-ink-light: #1e293b;
+  --color-ink-dark: #020617;
+  --color-fire: #ff4d00;
+  --color-fire-light: #ff6b2c;
+  --color-fire-dark: #cc3d00;
+  --color-cream: #fefdfb;
+  --color-cream-100: #fdf9f3;
+  --color-cream-200: #f9f1e4;
+  
+  /* Font families */
+  --font-heading: 'Cabinet Grotesk', system-ui, sans-serif;
+  --font-body: 'Satoshi', system-ui, sans-serif;
+  
+  /* Border widths */
+  --border-width-3: 3px;
+  --border-width-4: 4px;
+  
+  /* Shadows */
+  --shadow-brutal: 4px 4px 0 0 #0f172a;
+  --shadow-brutal-lg: 8px 8px 0 0 #0f172a;
+  --shadow-brutal-fire: 4px 4px 0 0 #ff4d00;
+}
 
 @layer base {
   html {
