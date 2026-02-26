@@ -1,0 +1,46 @@
+---
+// CTA section for newsletter/volunteer
+---
+
+<section class="section bg-cream">
+  <div class="container-main">
+    <div class="bg-fire border-4 border-ink p-8 md:p-12 relative overflow-hidden">
+      <!-- Background pattern -->
+      <div class="absolute inset-0 opacity-10">
+        <div class="grid grid-cols-8 gap-4 h-full">
+          {[...Array(64)].map(() => (
+            <div class="border border-white"></div>
+          ))}
+        </div>
+      </div>
+      
+      <div class="relative z-10 max-w-3xl mx-auto text-center text-white">
+        <h2 class="text-headline mb-6">
+          Get The <span class="text-outline text-white">Alpha.</span>
+        </h2>
+        <p class="text-xl mb-8 text-white/90">
+          Weekly insights from the front lines of rural entrepreneurship. No spam, just stories.
+        </p>
+        
+        <form class="flex flex-col sm:flex-row gap-4 max-w-xl mx-auto">
+          <input 
+            type="email" 
+            placeholder="your@email.com" 
+            class="flex-1 px-6 py-4 border-3 border-ink font-medium text-ink focus:outline-none focus:ring-4 focus:ring-white/50"
+            required
+          />
+          <button 
+            type="submit" 
+            class="btn bg-ink text-white border-3 border-white hover:shadow-brutal-fire hover:-translate-x-1 hover:-translate-y-1 px-8 py-4 whitespace-nowrap"
+          >
+            Subscribe
+          </button>
+        </form>
+        
+        <p class="text-sm text-white/70 mt-4">
+          Join 2,000+ entrepreneurs and changemakers. Unsubscribe anytime.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>

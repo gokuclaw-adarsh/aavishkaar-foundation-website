@@ -1,0 +1,73 @@
+---
+const navItems = [
+  { label: 'Programs', href: '/programs' },
+  { label: 'Impact', href: '/impact' },
+  { label: 'About', href: '/about' },
+  { label: 'Blog', href: '/blog' },
+];
+---
+
+<header class="fixed top-0 left-0 right-0 z-50 bg-cream border-b-3 border-ink">
+  <div class="container-main">
+    <div class="flex items-center justify-between h-20">
+      <!-- Logo -->
+      <a href="/" class="flex items-center gap-2">
+        <div class="w-10 h-10 bg-fire border-3 border-ink flex items-center justify-center">
+          <span class="text-white font-heading font-black text-xl">A</span>
+        </div>
+        <span class="font-heading font-black text-xl uppercase hidden sm:block">
+          Aavishkaar<span class="text-fire">.</span>
+        </span>
+      </a>
+      
+      <!-- Desktop Nav -->
+      <nav class="hidden lg:flex items-center gap-8">
+        {navItems.map((item) => (
+          <a 
+            href={item.href} 
+            class="font-heading font-bold text-sm uppercase tracking-wide text-ink hover:text-fire transition-colors"
+          >
+            {item.label}
+          </a>
+        ))}
+      </nav>
+      
+      <!-- CTA -->
+      <div class="flex items-center gap-4">
+        <a href="/contact" class="btn-primary text-sm hidden sm:inline-flex">
+          Get Involved
+        </a>
+        
+        <!-- Mobile menu button -->
+        <button class="lg:hidden p-2 border-3 border-ink hover:bg-ink hover:text-white transition-colors" id="mobile-toggle">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="square" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Mobile Menu -->
+  <div class="lg:hidden hidden bg-ink text-white border-t-3 border-ink" id="mobile-menu">
+    <nav class="container-main py-6 flex flex-col gap-4">
+      {navItems.map((item) => (
+        <a 
+          href={item.href} 
+          class="font-heading font-bold text-lg uppercase py-2 hover:text-fire transition-colors"
+        >
+          {item.label}
+        </a>
+      ))}
+      <a href="/contact" class="btn bg-fire text-white border-3 border-white mt-4 text-center">
+        Get Involved
+      </a>
+    </nav>
+  </div>
+</header>
+
+<script>
+  const toggle = document.getElementById('mobile-toggle');
+  const menu = document.getElementById('mobile-menu');
+  toggle?.addEventListener('click', () => menu?.classList.toggle('hidden'));
+</script>
