@@ -22,3 +22,8 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# Large media assets (use manifest for URLs)
+public/images/media/
+public/images/events/
+public/images/programs/
