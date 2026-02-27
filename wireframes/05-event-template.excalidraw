@@ -1,0 +1,222 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "aavishkaar-wireframes",
+  "elements": [
+    {
+      "type": "text",
+      "id": "title",
+      "x": 80,
+      "y": 20,
+      "text": "EVENT PAGE TEMPLATE\n(Varanasi / Ghazipur / Kushinagar / Sankalp)",
+      "fontSize": 18,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "frame",
+      "x": 50,
+      "y": 70,
+      "width": 400,
+      "height": 1600,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2
+    },
+    {
+      "type": "rectangle",
+      "id": "hero",
+      "x": 50,
+      "y": 130,
+      "width": 400,
+      "height": 200,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#fff3e0",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "hero-text",
+      "x": 80,
+      "y": 160,
+      "text": "[EVENT NAME]\n[Location] | [Date]\n\n[Hero Banner Image]\n\nTagline: \"Ab Apke [District] Mein\"",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "stats",
+      "x": 50,
+      "y": 340,
+      "width": 400,
+      "height": 100,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#e3f2fd",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "stats-text",
+      "x": 70,
+      "y": 370,
+      "text": "EVENT STATS\n\nX Participants    X Schools    X Winners    ₹X Prize Pool",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "about",
+      "x": 50,
+      "y": 450,
+      "width": 400,
+      "height": 150,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#f5f5f5",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "about-text",
+      "x": 70,
+      "y": 470,
+      "text": "ABOUT THE EVENT\n\nBrief description of what happened at this event.\nKey highlights, partnerships, special guests.\n\nVenue: [Venue Name]\nPartners: [Partner logos]",
+      "fontSize": 12,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "winners",
+      "x": 50,
+      "y": 610,
+      "width": 400,
+      "height": 250,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#e8f5e9",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "winners-text",
+      "x": 70,
+      "y": 630,
+      "text": "WINNERS\n\n🥇 1st Place: [Name] - [Business] - ₹[Prize]\n🥈 2nd Place: [Name] - [Business] - ₹[Prize]\n🥉 3rd Place: [Name] - [Business] - ₹[Prize]\n\n┌─────────┐ ┌─────────┐ ┌─────────┐\n│  Photo  │ │  Photo  │ │  Photo  │\n│ Winner 1│ │ Winner 2│ │ Winner 3│\n└─────────┘ └─────────┘ └─────────┘",
+      "fontSize": 11,
+      "fontFamily": 3,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "gallery",
+      "x": 50,
+      "y": 870,
+      "width": 400,
+      "height": 200,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#fce4ec",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "gallery-text",
+      "x": 70,
+      "y": 890,
+      "text": "PHOTO GALLERY\n\n┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐\n│      │ │      │ │      │ │      │ │      │\n└──────┘ └──────┘ └──────┘ └──────┘ └──────┘\n┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐\n│      │ │      │ │      │ │      │ │      │\n└──────┘ └──────┘ └──────┘ └──────┘ └──────┘\n\n            [View All X Photos]",
+      "fontSize": 10,
+      "fontFamily": 3,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "videos",
+      "x": 50,
+      "y": 1080,
+      "width": 400,
+      "height": 150,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ede7f6",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "videos-text",
+      "x": 70,
+      "y": 1100,
+      "text": "EVENT VIDEOS\n\n┌─────────────────────────────────────┐\n│         YouTube Video Embed         │\n│           Event Highlights          │\n└─────────────────────────────────────┘",
+      "fontSize": 12,
+      "fontFamily": 3,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "press",
+      "x": 50,
+      "y": 1240,
+      "width": 400,
+      "height": 150,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#fff8e1",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "press-text",
+      "x": 70,
+      "y": 1260,
+      "text": "PRESS COVERAGE\n\n┌─────────┐ ┌─────────┐ ┌─────────┐\n│ Dainik  │ │ Amar    │ │ Local   │\n│ Jagran  │ │ Ujala   │ │ News    │\n└─────────┘ └─────────┘ └─────────┘",
+      "fontSize": 11,
+      "fontFamily": 3,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "nav",
+      "x": 50,
+      "y": 1400,
+      "width": 400,
+      "height": 80,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#e0e0e0",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "nav-text",
+      "x": 70,
+      "y": 1420,
+      "text": "← Previous Event                    Next Event →\n   [Varanasi 2023]                 [Sankalp 2024]",
+      "fontSize": 12,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "footer",
+      "x": 50,
+      "y": 1490,
+      "width": 400,
+      "height": 80,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#212121",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#ffffff",
+    "gridSize": 20
+  },
+  "files": {}
+}

@@ -1,0 +1,230 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "aavishkaar-wireframes",
+  "elements": [
+    {
+      "type": "text",
+      "id": "title",
+      "x": 150,
+      "y": 20,
+      "text": "OUR STORY PAGE",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "frame",
+      "x": 50,
+      "y": 50,
+      "width": 400,
+      "height": 2200,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2
+    },
+    {
+      "type": "rectangle",
+      "id": "header",
+      "x": 50,
+      "y": 50,
+      "width": 400,
+      "height": 60,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#e9ecef",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "header-text",
+      "x": 70,
+      "y": 70,
+      "text": "[Header - Same as Homepage]",
+      "fontSize": 12,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "hero",
+      "x": 50,
+      "y": 110,
+      "width": 400,
+      "height": 200,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#fff3e0",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "hero-text",
+      "x": 120,
+      "y": 160,
+      "text": "OUR STORY\n\n\"Bridging the Opportunity Gap\"\n\nBreadcrumb: Home > Our Story",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "about",
+      "x": 50,
+      "y": 320,
+      "width": 400,
+      "height": 280,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "about-text",
+      "x": 70,
+      "y": 340,
+      "text": "ABOUT AAVISHKAAR FOUNDATION\n\nConceptualized in 2020 during Covid lockdown.\n\n• 370,000 meals provided during migration\n• Supported hospitals in 7 districts, 3 states\n• Formalized from \"Facility for Humane Action\"\n\nMission: Support entrepreneurial ecosystem\nthat inspires young minds to generate\nlivelihoods.\n\nFocus: Eastern Uttar Pradesh",
+      "fontSize": 12,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "group",
+      "x": 50,
+      "y": 610,
+      "width": 400,
+      "height": 200,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#e3f2fd",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "group-text",
+      "x": 70,
+      "y": 630,
+      "text": "AAVISHKAAR GROUP\n\n[Group Logo]        Part of US$ 1.2B Impact Platform\n\n┌─────────────┬─────────────┬─────────────┐\n│ Aavishkaar  │ Arohan      │ Intellecap  │\n│ Capital     │ Microfinance│ Advisory    │\n│ $450M       │ $700M       │ Global      │\n└─────────────┴─────────────┴─────────────┘\n\n100 Million+ lives impacted",
+      "fontSize": 11,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "timeline",
+      "x": 50,
+      "y": 820,
+      "width": 400,
+      "height": 500,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#f5f5f5",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "timeline-title",
+      "x": 200,
+      "y": 840,
+      "text": "OUR JOURNEY",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "text",
+      "id": "timeline-text",
+      "x": 70,
+      "y": 880,
+      "text": "        │\nApr 2020 ●── Facility for Humane Action established\n        │\nSep 2020 ●── Foundation born, UK Sinha as Chairman\n        │\nJun 2021 ●── Oxygen concentrators & masks mobilized\n        │\nOct 2021 ●── 5 lakh masks to Arohan customers\n        │\nMay 2022 ●── Capacity building in Bihar & Jharkhand\n        │\nAug 2022 ●── Livelihood initiatives launched\n        │\nApr 2023 ●── Varanasi YEP event\n        │\nNov 2023 ●── Ghazipur YEP event\n        │\nApr 2024 ●── Kushinagar YEP event\n        │\nNov 2024 ●── Sankalp Bharat Summit 2024\n        │\nDec 2025 ●── Sankalp Bharat Summit 2025\n        │",
+      "fontSize": 10,
+      "fontFamily": 3,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "board",
+      "x": 50,
+      "y": 1330,
+      "width": 400,
+      "height": 350,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#fff8e1",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "board-title",
+      "x": 180,
+      "y": 1350,
+      "text": "BOARD OF DIRECTORS",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "text",
+      "id": "board-text",
+      "x": 70,
+      "y": 1400,
+      "text": "┌─────────┐  ┌─────────┐  ┌─────────┐  ┌─────────┐\n│  Photo  │  │  Photo  │  │  Photo  │  │  Photo  │\n│         │  │         │  │         │  │         │\n└─────────┘  └─────────┘  └─────────┘  └─────────┘\n  U.K.        Vineet      Swati       Rakesh\n  Sinha       Rai         Rai         Rewari\n  Chairman    Founder     Co-Founder  Director\n\n                    ┌─────────┐\n                    │  Photo  │\n                    │         │\n                    └─────────┘\n                      Gurjit\n                      Singh\n                    Ambassador",
+      "fontSize": 10,
+      "fontFamily": 3,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "cta",
+      "x": 50,
+      "y": 1690,
+      "width": 400,
+      "height": 120,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ff6b00",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "cta-text",
+      "x": 100,
+      "y": 1720,
+      "text": "BE PART OF OUR STORY\n\n[Get Involved]          [Donate Now]",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "strokeColor": "#ffffff"
+    },
+    {
+      "type": "rectangle",
+      "id": "footer",
+      "x": 50,
+      "y": 1820,
+      "width": 400,
+      "height": 100,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#212121",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "footer-text",
+      "x": 180,
+      "y": 1860,
+      "text": "[Footer]",
+      "fontSize": 12,
+      "fontFamily": 1,
+      "strokeColor": "#ffffff"
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#ffffff",
+    "gridSize": 20
+  },
+  "files": {}
+}

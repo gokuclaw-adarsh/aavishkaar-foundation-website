@@ -1,0 +1,144 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "aavishkaar-wireframes",
+  "elements": [
+    {
+      "type": "text",
+      "id": "title",
+      "x": 180,
+      "y": 20,
+      "text": "MEDIA PAGE",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "frame",
+      "x": 50,
+      "y": 50,
+      "width": 400,
+      "height": 1200,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2
+    },
+    {
+      "type": "rectangle",
+      "id": "hero",
+      "x": 50,
+      "y": 110,
+      "width": 400,
+      "height": 120,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#fff3e0",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "hero-text",
+      "x": 150,
+      "y": 140,
+      "text": "MEDIA & PRESS\n\nAavishkaar Foundation in the news",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "filter",
+      "x": 50,
+      "y": 240,
+      "width": 400,
+      "height": 50,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#f5f5f5",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "filter-text",
+      "x": 70,
+      "y": 255,
+      "text": "Filter: [All] [Sankalp 2025] [Sankalp 2024] [Kushinagar] [Ghazipur]",
+      "fontSize": 11,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "grid",
+      "x": 50,
+      "y": 300,
+      "width": 400,
+      "height": 600,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "grid-title",
+      "x": 180,
+      "y": 320,
+      "text": "PRESS COVERAGE",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "text",
+      "id": "grid-text",
+      "x": 70,
+      "y": 360,
+      "text": "┌───────────┐  ┌───────────┐  ┌───────────┐\n│           │  │           │  │           │\n│ Hindustan │  │  Dainik   │  │   Amar    │\n│   Times   │  │  Jagran   │  │   Ujala   │\n│           │  │           │  │           │\n│  Feb 2026 │  │  Feb 2026 │  │  Feb 2026 │\n└───────────┘  └───────────┘  └───────────┘\n\n┌───────────┐  ┌───────────┐  ┌───────────┐\n│           │  │           │  │           │\n│ Awadhnama │  │ Ghazipur  │  │  Samachar │\n│           │  │   Times   │  │   Dhara   │\n│           │  │           │  │           │\n│  Jan 2026 │  │  Aug 2025 │  │  Aug 2025 │\n└───────────┘  └───────────┘  └───────────┘\n\n┌───────────┐  ┌───────────┐  ┌───────────┐\n│           │  │           │  │           │\n│   More    │  │   Press   │  │ Coverage  │\n│           │  │           │  │           │\n└───────────┘  └───────────┘  └───────────┘\n\n          [Load More - 27 Total]",
+      "fontSize": 10,
+      "fontFamily": 3,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "contact",
+      "x": 50,
+      "y": 910,
+      "width": 400,
+      "height": 120,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#e3f2fd",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "contact-text",
+      "x": 70,
+      "y": 940,
+      "text": "MEDIA INQUIRIES\n\nFor press inquiries, interviews, or media kit:\nsupport@aavishkaarfoundation.in\n\n[Download Media Kit]",
+      "fontSize": 12,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "footer",
+      "x": 50,
+      "y": 1040,
+      "width": 400,
+      "height": 80,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#212121",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#ffffff",
+    "gridSize": 20
+  },
+  "files": {}
+}

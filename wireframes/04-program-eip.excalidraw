@@ -1,0 +1,188 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "aavishkaar-wireframes",
+  "elements": [
+    {
+      "type": "text",
+      "id": "title",
+      "x": 100,
+      "y": 20,
+      "text": "ENTREPRENEUR INVESTING PROGRAM (EIP)",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "frame",
+      "x": 50,
+      "y": 50,
+      "width": 400,
+      "height": 1800,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2
+    },
+    {
+      "type": "rectangle",
+      "id": "hero",
+      "x": 50,
+      "y": 110,
+      "width": 400,
+      "height": 200,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#e8f5e9",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "hero-text",
+      "x": 80,
+      "y": 140,
+      "text": "ENTREPRENEUR INVESTING PROGRAM\n\nFunding & mentoring promising entrepreneurs\nin Eastern Uttar Pradesh\n\nFor: Existing entrepreneurs seeking growth capital\n\n[Hero Image - Entrepreneur with business]",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "stats",
+      "x": 50,
+      "y": 320,
+      "width": 400,
+      "height": 100,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#e3f2fd",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "stats-text",
+      "x": 70,
+      "y": 350,
+      "text": "EIP IMPACT\n\n20+ Entrepreneurs Funded    ₹75L+ Investment    21 Districts",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "about",
+      "x": 50,
+      "y": 430,
+      "width": 400,
+      "height": 200,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#f5f5f5",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "about-text",
+      "x": 70,
+      "y": 450,
+      "text": "WHAT IS EIP?\n\nEIP identifies promising entrepreneurs from Eastern UP\nwho have existing businesses but need capital and\nmentorship to scale.\n\n• Equity-free grants up to ₹5 Lakhs\n• Business mentorship from Aavishkaar Group\n• Access to network & markets\n• Ongoing support & tracking",
+      "fontSize": 12,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "criteria",
+      "x": 50,
+      "y": 640,
+      "width": 400,
+      "height": 180,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#fff8e1",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "criteria-text",
+      "x": 70,
+      "y": 660,
+      "text": "ELIGIBILITY CRITERIA\n\n✓ Based in Eastern Uttar Pradesh\n✓ Existing business (min 6 months operational)\n✓ Clear growth plan & scaling potential\n✓ Commitment to local employment\n✓ Willingness to receive mentorship",
+      "fontSize": 12,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "portfolio",
+      "x": 50,
+      "y": 830,
+      "width": 400,
+      "height": 350,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "portfolio-title",
+      "x": 180,
+      "y": 850,
+      "text": "OUR ENTREPRENEURS",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "text",
+      "id": "portfolio-text",
+      "x": 70,
+      "y": 890,
+      "text": "┌─────────────────┐    ┌─────────────────┐\n│     Photo       │    │     Photo       │\n│                 │    │                 │\n│  Surya Mishra   │    │  Kalyani Singh  │\n│  Aashray        │    │  Anshima        │\n│  Hygiene        │    │  Handicrafts    │\n│  ₹X Lakhs       │    │  ₹X Lakhs       │\n└─────────────────┘    └─────────────────┘\n\n┌─────────────────┐    ┌─────────────────┐\n│     Photo       │    │     Photo       │\n│  Entrepreneur 3 │    │  Entrepreneur 4 │\n└─────────────────┘    └─────────────────┘\n\n              [View All Portfolio]",
+      "fontSize": 10,
+      "fontFamily": 3,
+      "strokeColor": "#1e1e1e"
+    },
+    {
+      "type": "rectangle",
+      "id": "cta",
+      "x": 50,
+      "y": 1190,
+      "width": 400,
+      "height": 150,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ff6b00",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    },
+    {
+      "type": "text",
+      "id": "cta-text",
+      "x": 100,
+      "y": 1220,
+      "text": "ARE YOU AN ENTREPRENEUR?\n\nApply for EIP funding & mentorship\n\n[Apply Now]    [Download Brochure]\n\nApplications open year-round",
+      "fontSize": 12,
+      "fontFamily": 1,
+      "strokeColor": "#ffffff"
+    },
+    {
+      "type": "rectangle",
+      "id": "footer",
+      "x": 50,
+      "y": 1350,
+      "width": 400,
+      "height": 100,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#212121",
+      "fillStyle": "solid",
+      "strokeWidth": 1
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#ffffff",
+    "gridSize": 20
+  },
+  "files": {}
+}
