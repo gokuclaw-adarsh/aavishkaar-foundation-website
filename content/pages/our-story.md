@@ -74,8 +74,10 @@ Conducted capacity building and training for women in Bihar and Jharkhand
 
 Aavishkaar Foundation is honored and fortunate to have a stellar Board of individuals that help provide strategic direction and insights in its journey to create impact.
 
-1. **U.K. Sinha** - Chairman (Former Chairman of SEBI)
-2. **Vineet Chandra Rai** - Founder
-3. **Swati Vineet Rai** - Director
-4. **Rakesh Rewari** - Director
-5. **Gurjit Singh** - Director
+| Name | Role | Photo |
+|------|------|-------|
+| **U.K. Sinha** | Chairman (Former Chairman of SEBI) | *(no photo on site)* |
+| **Vineet Chandra Rai** | Founder & Vice-Chairman | `/images/board/Vineet-Rai.jpg` |
+| **Swati Vineet Rai** | Co-Founder | `/images/board/Swati-Rai.png` |
+| **Rakesh Rewari** | Director | `/images/board/Rakesh-Rewari.png` |
+| **Gurjit Singh** | Director (Ambassador) | `/images/board/Ambassador-Gurjit-Singh.jpg` |
